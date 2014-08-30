@@ -16,6 +16,18 @@
   font-weight: bold;
 }
 
+.footer .white, .footer a{
+  color: #e4e4e4 !important;
+}
+
+.footer{
+  /* Rectangle 1: */
+background-image: -o-linear-gradient(-89deg, #7F174E 0%, #4E092E 39%);
+background-image: -moz-linear-gradient(-89deg, #7F174E 0%, #4E092E 39%);
+background-image: -ms-linear-gradient(-89deg, #7F174E 0%, #4E092E 39%);
+background-image: linear-gradient(-179deg, #7F174E 0%, #4E092E 39%);
+}
+
 .footer p{
   font-size: .9em;
 }
